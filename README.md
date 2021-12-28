@@ -1,8 +1,5 @@
 # eJPT-Notes
 
-# eJPT
-some eLearnSecurity eJPT exam preparation materials
-
 ### nmap + fping
 hosts discovery fping:
 ```bash
