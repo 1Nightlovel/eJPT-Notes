@@ -26,6 +26,6 @@ saludos y buena suerte
 
 # Ejpt Notes Link
 
-```bash
+
 https://github.com/1Nightlovel/eJPT-Notes/blob/main/README.md
-```
+
