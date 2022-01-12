@@ -1,4 +1,4 @@
-# Hola aquí te dejo un review de mi experiencia en el ejpt :)
+# Hola aquí te dejo un review de mi experiencia en eJPT :)
 
 ```bash
 Las pruebas son distintas, pero es el mismo enfoque
