@@ -34,7 +34,7 @@ Saludos y éxito.
 
 https://github.com/1Nightlovel/eJPT-Notes/blob/main/README.md
 
-# path ine 
+# Path ine 
 
 Esta es la ruta que yo segui para realizar la certificacion, adicionalmente siempre practico en tryhackme o htb
 
