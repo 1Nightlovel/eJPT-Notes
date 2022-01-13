@@ -34,3 +34,9 @@ Saludos y éxito.
 
 https://github.com/1Nightlovel/eJPT-Notes/blob/main/README.md
 
+# path ine 
+
+Esta es la ruta que yo segui para realizar la certificacion, adicionalmente siempre practico en tryhackme o htb
+
+https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student
+
